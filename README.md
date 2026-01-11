@@ -13,3 +13,6 @@ The project emphasizes **data structure implementation, dynamic memory managemen
 - Systematic exploration of valid paths
 - Separation of maze logic and queue logic into modules
 - Dedicated test files for validating queue and maze behavior
+
+## Notes
+Completed during Spring 2025. 
